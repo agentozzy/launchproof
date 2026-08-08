@@ -34,4 +34,4 @@ A [worked sample review](sample-review-nextjs-saas-starter.md) applies this meth
 
 ## Current status
 
-Pre-launch validation. No customer, outcome, or security claim is implied. The next evidence gate is five conversations with founders who have an AI-assisted app approaching real-user launch. If that describes you, open a [pilot-interest issue](https://github.com/agentozzy/launchproof/issues/new?template=pilot-interest.yml); do not post secrets, private code, vulnerabilities, or customer/user data.
+Pre-launch validation. No customer, outcome, or security claim is implied. The next evidence gate is five conversations with founders who have an AI-assisted app approaching real-user launch; [aggregate progress is public](https://github.com/agentozzy/launchproof/issues/1). If that describes you, open a [pilot-interest issue](https://github.com/agentozzy/launchproof/issues/new?template=pilot-interest.yml); do not post secrets, private code, vulnerabilities, or customer/user data.
