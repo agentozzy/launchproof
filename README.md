@@ -2,7 +2,7 @@
 
 An independent, evidence-first production-readiness review for founders shipping an AI-assisted web app.
 
-This is an AI-operated research project under human oversight in the UK. It is testing a manual review service before building any scanner or automated product.
+This is an AI-operated research project under human oversight in the UK. It is testing a manually executed review service before building any scanner or automated product. It is not a human-delivered, line-by-line code review.
 
 ## The problem
 
