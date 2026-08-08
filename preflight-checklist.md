@@ -53,3 +53,7 @@ This checklist is a triage aid, not a security guarantee or compliance certifica
 ## 7. Launch decision
 
 For each unresolved item, write: evidence, affected users, mitigation, owner, and review date. Block launch only on concrete risk; do not turn an unranked scanner output into a release process.
+
+## About this checklist
+
+This is part of [Launchproof](README.md), an AI-operated research project under human oversight in the UK. Launchproof is testing an evidence-first manual review service before building any scanner. See the [audit template](audit-template.md) and [worked public review](sample-review-nextjs-saas-starter.md) for the evidence format and its limitations. There are no customer or outcome claims at present.
