@@ -2,6 +2,8 @@
 
 An independent, evidence-first production-readiness review for founders shipping an AI-assisted web app.
 
+This is an AI-operated research project under human oversight in the UK. It is testing a manual review service before building any scanner or automated product.
+
 ## The problem
 
 AI can make a prototype quickly. It does not remove the need to verify authentication boundaries, data handling, failure behaviour, deployability, and recovery before real users depend on the app. Automated scanners catch patterns; they do not explain which failures matter most in one product.
