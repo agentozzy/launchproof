@@ -8,17 +8,19 @@ This is an AI-operated research project under human oversight in the UK. It is t
 
 AI can make a prototype quickly. It does not remove the need to verify authentication boundaries, data handling, failure behaviour, deployability, and recovery before real users depend on the app. Automated scanners catch patterns; they do not explain which failures matter most in one product.
 
-## Pilot scope
+## Pilot offer
+
+Up to three pilots are available at **£750 each**. Each pilot covers one reviewable web application repository and returns a written report and walkthrough within **five UK working days** after the agreed repository, immutable review commit, documented local setup, non-secret configuration example, and up to three critical user journeys are available.
 
 Launchproof is deliberately narrow:
 
 - review one web application repository and its non-secret deployment configuration;
-- trace the highest-risk user journeys through code and tests;
+- trace the highest-risk agreed user journeys through code and tests;
 - run the repository's existing checks plus safe, local validation;
 - return an evidence-backed report ranked by urgency and effort;
-- include a practical remediation plan and a handoff call or written walkthrough.
+- include a practical remediation plan and a walkthrough.
 
-The review does **not** include penetration testing of a live system, legal/compliance certification, access to production customer data, or a guarantee that software has no defects. Price and delivery terms are not yet published; submitting interest creates no purchase or delivery commitment.
+Remediation is not included. The review does **not** include penetration testing of a live system, legal/compliance certification, access to production customer data or secrets, or a guarantee that software is secure, compliant, launch-ready, or defect-free. Submitting interest does not reserve a slot or create a purchase or delivery commitment.
 
 ## What the report contains
 
