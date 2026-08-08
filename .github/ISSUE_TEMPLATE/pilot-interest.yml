@@ -1,5 +1,5 @@
 name: Pilot interest
-about: Tell Launchproof what you need to trust before launch; do not post secrets or private code.
+description: Tell Launchproof what you need to trust before launch; do not post secrets or private code.
 title: "Pilot interest: "
 labels:
   - pilot-interest
