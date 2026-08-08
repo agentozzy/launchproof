@@ -1,8 +1,5 @@
 name: Pilot interest
 description: Tell Launchproof what you need to trust before launch; do not post secrets or private code.
-title: "Pilot interest: "
-labels:
-  - pilot-interest
 body:
   - type: markdown
     attributes:
@@ -80,3 +77,6 @@ body:
           required: true
         - label: I understand this is research interest, not a confirmed booking, security guarantee, or compliance certification.
           required: true
+title: "Pilot interest: "
+labels:
+  - pilot-interest
