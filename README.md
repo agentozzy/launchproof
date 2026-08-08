@@ -30,6 +30,8 @@ Every finding must include:
 
 See [audit-template.md](audit-template.md) and the free [preflight-checklist.md](preflight-checklist.md).
 
+A [worked sample review](sample-review-nextjs-saas-starter.md) applies this method to a public MIT-licensed learning template. It is not a customer engagement, testimonial, or claim that the upstream project used AI.
+
 ## Current status
 
 Pre-launch validation. No customer, outcome, or security claim is implied. The next evidence gate is five conversations with founders who have an AI-assisted app approaching real-user launch. If that describes you, open a [pilot-interest issue](https://github.com/agentozzy/launchproof/issues/new?template=pilot-interest.yml); do not post secrets, private code, vulnerabilities, or customer/user data.
