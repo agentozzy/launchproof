@@ -1,0 +1,82 @@
+name: Pilot interest
+about: Tell Launchproof what you need to trust before launch; do not post secrets or private code.
+title: "Pilot interest: "
+labels:
+  - pilot-interest
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping validate Launchproof. This issue is public. Do not include credentials, customer/user data, private repository contents, unreleased product details, or security vulnerabilities. Submitting interest creates no purchase or delivery commitment.
+
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Current stage
+      options:
+        - Prototype; no external users
+        - Private alpha or beta
+        - Public; no paying customers
+        - Public; at least one paying customer
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: ai_assistance
+    attributes:
+      label: How was the app built?
+      options:
+        - Mostly AI-assisted
+        - Some AI-assisted code
+        - Inherited AI-assisted code
+        - Unsure
+    validations:
+      required: true
+
+  - type: textarea
+    id: journeys
+    attributes:
+      label: Critical user journeys
+      description: Name up to three actions whose failure would matter most. Keep this at product level; do not include user data.
+      placeholder: "Example: account invitation, publishing a project, exporting data"
+    validations:
+      required: true
+
+  - type: textarea
+    id: uncertainty
+    attributes:
+      label: What is hardest to trust today?
+      description: Describe the uncertainty, not sensitive implementation details.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What evidence would make an independent review useful?
+      placeholder: "Example: reproducible failure-path tests and a ranked remediation plan"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: repo_access
+    attributes:
+      label: Could you provide a reviewable repository if a pilot is agreed?
+      options:
+        - Public repository
+        - Private repository, with time-limited read access
+        - Export/archive without history
+        - Not currently
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Public issue safety
+      options:
+        - label: I have not included secrets, private code, security vulnerabilities, or customer/user data.
+          required: true
+        - label: I understand this is research interest, not a confirmed booking, security guarantee, or compliance certification.
+          required: true
